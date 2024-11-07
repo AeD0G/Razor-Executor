@@ -25,6 +25,6 @@ Join our **Discord** community to access scripts, ask questions, and get support
 
 ## Screenshot
 
-![Razor Screenshot](E:\Funny things!@\Website\evidence1.png)
+![Razor Screenshot]("C:\Users\aeden\Downloads\evidence1.png")
 
 > **Reminder**: Use of this tool outside of its intended, educational purposes may lead to consequences. Please use it responsibly.
