@@ -22,7 +22,7 @@ To get started with Razor, follow these steps:
 ## Community and Support
 
 Join our **Discord** community to access scripts, ask questions, and get support from other users. Our community is committed to sharing knowledge responsibly, and we encourage safe and ethical use.
-
+**Discord:** https://discord.gg/tK4TuegB67
 ## Screenshot
 
 ![Razor Screenshot](evidence1.png)
