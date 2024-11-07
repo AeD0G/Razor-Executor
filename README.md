@@ -29,7 +29,7 @@ Join our **Discord** community to access scripts, ask questions, and get support
 
 > **Reminder**: Use of this tool outside of its intended, educational purposes may lead to consequences. Please use it responsibly.
 
-##BoringNess
+## BoringNess
 I know this executor and the community is dry but you can bring it to life. if you can do anything for this community I would Be proud.🥺
 
 ## Support
